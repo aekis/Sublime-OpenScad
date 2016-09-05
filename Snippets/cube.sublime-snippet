@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-cube(size=${1:[]}, center=${2:false});
+cube(size=${1:[]}, center=${2:true});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cub</tabTrigger>

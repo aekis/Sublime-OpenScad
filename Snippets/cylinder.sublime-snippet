@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-cylinder(h=${1:1}, r=${2:1}, center=${3:false}, \$fn=${4:20});
+cylinder(h=${1:1}, r=${2:1}, center=${3:true});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cyl</tabTrigger>
